@@ -1,0 +1,55 @@
+[
+    {
+        "id" : 1,
+        "image" : "../images/shop/1.jpg",
+        "title" : "Digital Printed Short Sleeve t-shirt for Men- Red",
+        "price" : "200 BDT"
+    },
+    {
+        "id" : 2,
+        "image" : "../images/shop/2.jpg",
+        "title" : "Black formal Shoes Slip-Ons & Loafers for Men",
+        "price" : "2000 BDT"
+    },
+    {
+        "id" : 3,
+        "image" : "../images/shop/3.jpg",
+        "title" : "Jib Long Wallet Card Holder, Mobile Farch",
+        "price" : "200 BDT"
+    },
+    {
+        "id" : 4,
+        "image" : "../images/shop/4.jpg",
+        "title" : "এক্সক্লুসিভ ফ্যাশনেবল পাঞ্জাবি-কালো",
+        "price" : "800 BDT"
+    },
+    {
+        "id" : 5,
+        "image" : "../images/shop/5.jpg",
+        "title" : "Artificial Leather Belt for Men - Chocolate",
+        "price" : "1200 BDT"
+    },
+    {
+        "id" : 6,
+        "image" : "../images/shop/6.jpg",
+        "title" : "Outdoor Small Mini Backpack Daypack Bookbags",
+        "price" : "1500 BDT"
+    },{
+        "id" : 7,
+        "image" : "../images/shop/7.jpg",
+        "title" : "Cool Quartz Leather Stylish Wrist Watch For Man",
+        "price" : "2000 BDT"
+    },
+    {
+        "id" : 8,
+        "image" : "../images/shop/8.jpg",
+        "title" : "LUXURY MENS WATCHES FULL STEEL",
+        "price" : "2500 BDT"
+    },
+    {
+        "id" : 9,
+        "image" : "../images/shop/9.jpg",
+        "title" : "Jpn Blue Staylish cotton polo",
+        "price" : "200 BDT"
+    }
+]
